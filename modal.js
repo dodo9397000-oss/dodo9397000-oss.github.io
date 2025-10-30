@@ -7,7 +7,7 @@ const projects = {
   },
   project2: {
     title: 'leaflet design',
-    image: 'img/g100.png',
+    image: 'img/g101.png',
     description: '리플렛 디자인 프로젝트로, 제품을 알기 쉽게 디자인하였습니다.'
   },
   project3: {
