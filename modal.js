@@ -2,32 +2,32 @@
 const projects = {
   project1: {
     title: 'poster',
-    image: 'img/g20.png',
+    image: 'img/Frame-10.png',
     description: '이 프로젝트는 포스터 디자인입니다. 자연적 감수성과 현대적인 디자인으로 구성하였습니다.'
   },
   project2: {
     title: 'leaflet design',
-    image: 'img/g101.png',
+    image: 'img/Frame-11.png',
     description: '리플렛 디자인 프로젝트로, 제품을 알기 쉽게 디자인하였습니다.'
   },
   project3: {
     title: 'Edit Design Project 3',
-    image: 'img/g53.jpg',
+    image: 'img/Frame-12.png',
     description: '복지관 사보 디자인입니다.'
   },
   project4: {
     title: 'Edit Design Project 4',
-    image: 'img/g53.jpg',
+    image: 'img/Frame-12.png',
     description: '복지관 사보 디자인입니다.'
   },
   project5: {
     title: 'Edit Design Project 5',
-    image: 'img/g53.jpg',
+    image: 'img/Frame-12.png',
     description: '복지관 사보 디자인입니다.'
   },
   project6: {
     title: 'Edit Design Project 6',
-    image: 'img/g50.jpg',
+    image: 'img/Frame-7.png',
     description: '제품을 설명하는 제품 상세 디자인입니다.'
   }
 };
