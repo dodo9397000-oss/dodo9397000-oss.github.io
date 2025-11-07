@@ -12,22 +12,22 @@ const projects = {
   },
   project3: {
     title: 'Edit Design Project 3',
-    image: 'img/Frame-12.jpg',
+    image: 'img/Frame-12.png',
     description: '복지관 사보 디자인입니다.'
   },
   project4: {
     title: 'Edit Design Project 4',
-    image: 'img/Frame-12.jpg',
+    image: 'img/Frame-12.png',
     description: '복지관 사보 디자인입니다.'
   },
   project5: {
     title: 'Edit Design Project 5',
-    image: 'img/Frame-12.jpg',
+    image: 'img/Frame-12.png',
     description: '복지관 사보 디자인입니다.'
   },
   project6: {
     title: 'Edit Design Project 6',
-    image: 'img/Frame-7.jpg',
+    image: 'img/Frame-7.png',
     description: '제품을 설명하는 제품 상세 디자인입니다.'
   }
 };
