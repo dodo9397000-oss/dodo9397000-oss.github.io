@@ -115,7 +115,7 @@ section {
 }
 
 .box {
-  width: 23%;  /* 6개 이하일때는 30% */
+  width: 30%;  /* 6개 이하일때는 30% */
   cursor: pointer;
   border: 0px solid #ddd;
 }
